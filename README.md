@@ -34,10 +34,6 @@ This repository includes the following types of prompts:
 
 Tip: Copy your prompt in [Nice Prompt Extension](https://marketplace.visualstudio.com/items?itemName=Niceprompt.nice-prompt) after you connected the folder to the repository. Your local markdown file will be automatically updated.
 
-## SQL Style Guide
-
-This repository also includes a comprehensive PostgreSQL SQL Style Guide (`database/code-format-sql.md`) to ensure consistency in your SQL code. Refer to this guide when writing or reviewing SQL code for your projects.
-
 ## Contributing
 
 Contributions to this repository are welcome! If you have ideas for new prompts or improvements to existing ones, please submit a pull request or open an issue.
