@@ -1,6 +1,9 @@
 # .Prompts
 
-This repository contains a collection of AI-assisted development prompts designed to improve code quality, consistency, and efficiency in your projects.
+This repository contains a collection of AI-assisted development prompts designed to improve code quality, consistency, and efficiency in your projects via [Nice Prompt Extension](https://marketplace.visualstudio.com/items?itemName=Niceprompt.nice-prompt)
+
+![image](https://github.com/user-attachments/assets/f2c283fc-d759-4fb1-9f74-f756f8fb417e)
+
 
 ## Purpose
 
@@ -48,3 +51,10 @@ How to send new prompts:
 5. Create a pull request.
 
 Tip: Write your prompt in [Nice Prompt Extension](https://marketplace.visualstudio.com/items?itemName=Niceprompt.nice-prompt) after you connected the folder to the repository. Your local markdown file will be automatically updated.
+
+## Follow Nice Prompt
+
+[LinkedIn](https://www.linkedin.com/company/nice-prompt)
+[X](https://x.com/niceprompt)
+[GitHub](https://github.com/nice-prompt)
+[Website](https://niceprompt.app)
