@@ -1,6 +1,8 @@
 # .Prompts
 
-This repository contains a collection of AI-assisted development prompts designed to improve code quality, consistency, and efficiency in your projects.
+This repository contains a collection of AI-assisted development prompts designed to improve code quality, consistency, and efficiency in your projects via [Nice Prompt Extension](https://marketplace.visualstudio.com/items?itemName=Niceprompt.nice-prompt)
+
+![image](https://github.com/user-attachments/assets/f2c283fc-d759-4fb1-9f74-f756f8fb417e)
 
 ## Purpose
 
@@ -22,6 +24,7 @@ This repository includes the following types of prompts:
 | [Tailwind CSS](https://tailwindcss.com)  |
 | [React](https://reactjs.org)             |
 | [Express](https://expressjs.com)         |
+| [Tanstack Query](https://tanstack.com/)   |
 
 ## How to Use
 
@@ -30,10 +33,6 @@ This repository includes the following types of prompts:
 3. Use the generated code as a starting point, and adjust as needed for your specific use case.
 
 Tip: Copy your prompt in [Nice Prompt Extension](https://marketplace.visualstudio.com/items?itemName=Niceprompt.nice-prompt) after you connected the folder to the repository. Your local markdown file will be automatically updated.
-
-## SQL Style Guide
-
-This repository also includes a comprehensive PostgreSQL SQL Style Guide (`database/code-format-sql.md`) to ensure consistency in your SQL code. Refer to this guide when writing or reviewing SQL code for your projects.
 
 ## Contributing
 
@@ -48,3 +47,10 @@ How to send new prompts:
 5. Create a pull request.
 
 Tip: Write your prompt in [Nice Prompt Extension](https://marketplace.visualstudio.com/items?itemName=Niceprompt.nice-prompt) after you connected the folder to the repository. Your local markdown file will be automatically updated.
+
+## Follow Nice Prompt
+
+[LinkedIn](https://www.linkedin.com/company/nice-prompt)
+[X](https://x.com/niceprompt)
+[GitHub](https://github.com/nice-prompt)
+[Website](https://niceprompt.app)
