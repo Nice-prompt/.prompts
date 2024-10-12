@@ -4,6 +4,7 @@ This repository contains a collection of AI-assisted development prompts designe
 
 ![image](https://github.com/user-attachments/assets/f2c283fc-d759-4fb1-9f74-f756f8fb417e)
 
+
 ## Purpose
 
 The main goals of this repository are to provide a boilerplate for any project and to provide a bank of prompts for any future projects.
