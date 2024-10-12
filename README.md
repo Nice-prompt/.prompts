@@ -49,6 +49,11 @@ How to send new prompts:
 
 Tip: Write your prompt in [Nice Prompt Extension](https://marketplace.visualstudio.com/items?itemName=Niceprompt.nice-prompt) after you connected the folder to the repository. Your local markdown file will be automatically updated.
 
+## How to use Nice Prompt Extension
+
+https://github.com/user-attachments/assets/3a8547db-59a2-4187-9fd1-54d9b5472001
+
+
 ## Follow Nice Prompt
 
 [LinkedIn](https://www.linkedin.com/company/nice-prompt)
